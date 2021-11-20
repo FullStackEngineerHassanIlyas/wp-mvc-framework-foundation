@@ -1,6 +1,6 @@
 <?php 
 
-namespace PluginName\core;
+namespace WpMvcFramework\Foundation;
 
 use Illuminate\Container\Container;
 use Illuminate\Events\Dispatcher;

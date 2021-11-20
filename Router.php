@@ -1,6 +1,6 @@
 <?php 
 
-namespace PluginName\core;
+namespace WpMvcFramework\Foundation;
 
 use Illuminate\Routing\Router as RoutingRouter;
 use Illuminate\Routing\Pipeline;

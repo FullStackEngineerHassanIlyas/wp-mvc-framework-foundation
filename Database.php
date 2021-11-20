@@ -1,6 +1,6 @@
 <?php 
 
-namespace PluginName\core;
+namespace WpMvcFramework\Foundation;
 
 use Illuminate\Database\Capsule\Manager as DB;
 use Illuminate\Events\Dispatcher;
