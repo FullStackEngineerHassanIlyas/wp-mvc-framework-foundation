@@ -1,0 +1,15 @@
+{
+    "name": "wp-mvc-framework/foundation",
+    "authors": [
+        {
+            "name": "Hassan",
+            "email": "hassan_ilyas0@yahoo.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "WpMvcFramework\\Foundation": "./"
+        }
+    }
+}
